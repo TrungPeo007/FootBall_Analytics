@@ -1,6 +1,6 @@
 # Football Data Scraper & AI Match Analysis Pipeline
 
-[![CI](https://github.com/<your-username>/football-ai-analyst/actions/workflows/ci.yml/badge.svg)](https://github.com/<your-username>/football-ai-analyst/actions)
+[![CI](https://github.com/TrungPeo007/FootBall_Analytics/actions/workflows/ci.yml/badge.svg)](https://github.com/TrungPeo007/FootBall_Analytics/actions)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
@@ -25,7 +25,7 @@ An automated pipeline that scrapes match data (recent results, head-to-head reco
 ## Quick start
 
 ```bash
-git clone https://github.com/<your-username>/football-ai-analyst.git
+git clone https://github.com/TrungPeo007/FootBall_Analytics.git
 cd football-ai-analyst
 python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -e ".[dev]"

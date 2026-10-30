@@ -1,0 +1,181 @@
+{
+  "_note": "Synthetic demo data. Teams and results are fictional.",
+  "matches": [
+    {
+      "date": "2026-10-24",
+      "home": "Riverside FC",
+      "away": "Lakeside Town",
+      "home_goals": 2,
+      "away_goals": 0,
+      "competition": "Demo League"
+    },
+    {
+      "date": "2026-10-17",
+      "home": "Harbor City",
+      "away": "Riverside FC",
+      "home_goals": 1,
+      "away_goals": 3,
+      "competition": "Demo League"
+    },
+    {
+      "date": "2026-10-10",
+      "home": "Riverside FC",
+      "away": "Westfield Rovers",
+      "home_goals": 1,
+      "away_goals": 1,
+      "competition": "Demo League"
+    },
+    {
+      "date": "2026-10-03",
+      "home": "Eastvale Athletic",
+      "away": "Riverside FC",
+      "home_goals": 1,
+      "away_goals": 2,
+      "competition": "Demo League"
+    },
+    {
+      "date": "2026-09-26",
+      "home": "Riverside FC",
+      "away": "Hillcrest FC",
+      "home_goals": 0,
+      "away_goals": 1,
+      "competition": "Demo League"
+    },
+    {
+      "date": "2026-09-19",
+      "home": "Oakwood Albion",
+      "away": "Riverside FC",
+      "home_goals": 0,
+      "away_goals": 2,
+      "competition": "Demo League"
+    },
+    {
+      "date": "2026-09-12",
+      "home": "Lakeside Town",
+      "away": "Riverside FC",
+      "home_goals": 0,
+      "away_goals": 0,
+      "competition": "Demo League"
+    },
+    {
+      "date": "2026-09-05",
+      "home": "Riverside FC",
+      "away": "Harbor City",
+      "home_goals": 1,
+      "away_goals": 2,
+      "competition": "Demo League"
+    },
+    {
+      "date": "2026-10-25",
+      "home": "Northgate United",
+      "away": "Harbor City",
+      "home_goals": 0,
+      "away_goals": 2,
+      "competition": "Demo League"
+    },
+    {
+      "date": "2026-10-18",
+      "home": "Oakwood Albion",
+      "away": "Northgate United",
+      "home_goals": 1,
+      "away_goals": 1,
+      "competition": "Demo League"
+    },
+    {
+      "date": "2026-10-11",
+      "home": "Northgate United",
+      "away": "Hillcrest FC",
+      "home_goals": 1,
+      "away_goals": 0,
+      "competition": "Demo League"
+    },
+    {
+      "date": "2026-10-04",
+      "home": "Lakeside Town",
+      "away": "Northgate United",
+      "home_goals": 3,
+      "away_goals": 1,
+      "competition": "Demo League"
+    },
+    {
+      "date": "2026-09-27",
+      "home": "Northgate United",
+      "away": "Eastvale Athletic",
+      "home_goals": 2,
+      "away_goals": 1,
+      "competition": "Demo League"
+    },
+    {
+      "date": "2026-09-20",
+      "home": "Westfield Rovers",
+      "away": "Northgate United",
+      "home_goals": 2,
+      "away_goals": 2,
+      "competition": "Demo League"
+    },
+    {
+      "date": "2026-09-13",
+      "home": "Harbor City",
+      "away": "Northgate United",
+      "home_goals": 1,
+      "away_goals": 0,
+      "competition": "Demo League"
+    },
+    {
+      "date": "2026-09-06",
+      "home": "Northgate United",
+      "away": "Oakwood Albion",
+      "home_goals": 3,
+      "away_goals": 0,
+      "competition": "Demo League"
+    },
+    {
+      "date": "2026-03-14",
+      "home": "Riverside FC",
+      "away": "Northgate United",
+      "home_goals": 2,
+      "away_goals": 1,
+      "competition": "Demo League"
+    },
+    {
+      "date": "2025-10-05",
+      "home": "Northgate United",
+      "away": "Riverside FC",
+      "home_goals": 1,
+      "away_goals": 1,
+      "competition": "Demo League"
+    },
+    {
+      "date": "2025-03-02",
+      "home": "Riverside FC",
+      "away": "Northgate United",
+      "home_goals": 0,
+      "away_goals": 2,
+      "competition": "Demo League"
+    },
+    {
+      "date": "2024-11-10",
+      "home": "Northgate United",
+      "away": "Riverside FC",
+      "home_goals": 2,
+      "away_goals": 0,
+      "competition": "Demo League"
+    },
+    {
+      "date": "2024-04-20",
+      "home": "Riverside FC",
+      "away": "Northgate United",
+      "home_goals": 3,
+      "away_goals": 1,
+      "competition": "Demo League"
+    },
+    {
+      "date": "2023-12-09",
+      "home": "Northgate United",
+      "away": "Riverside FC",
+      "home_goals": 1,
+      "away_goals": 2,
+      "competition": "Demo League"
+    }
+  ]
+}

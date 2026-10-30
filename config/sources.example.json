@@ -1,0 +1,14 @@
+{
+  "_comment": "Template for the generic HTML scraper. Replace URLs and CSS selectors with those of the site you are allowed to scrape (check robots.txt + Terms of Service).",
+  "results_url": "https://example.com/teams/{team_slug}/results",
+  "h2h_url": "https://example.com/h2h/{home_slug}-vs-{away_slug}",
+  "date_format": "%Y-%m-%d",
+  "selectors": {
+    "row": "table.results tbody tr",
+    "date": "td.date",
+    "home": "td.home",
+    "away": "td.away",
+    "score": "td.score",
+    "competition": "td.competition"
+  }
+}
